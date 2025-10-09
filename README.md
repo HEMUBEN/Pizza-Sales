@@ -132,8 +132,8 @@ The Pizza Sales Analysis project turned unstructured sales data into actionable 
 9) Why is the average pizzas per order only 2.32 — is there potential to upsell larger combos?
 # 6) Pizza Sales Dashboard
 Show what the table looks like Dashboard Preview
-https://github.com/HEMUBEN/Pizza-Sales/blob/main/Pizza%20Sales%20Dashboard.png
-https://github.com/HEMUBEN/Pizza-Sales/blob/main/Pizza%20Sales%20Dashboard%20Best-Worst%20Sellers.png
+===>https://github.com/HEMUBEN/Pizza-Sales/blob/main/Pizza%20Sales%20Dashboard.png
+===>https://github.com/HEMUBEN/Pizza-Sales/blob/main/Pizza%20Sales%20Dashboard%20Best-Worst%20Sellers.png
 
 
 
