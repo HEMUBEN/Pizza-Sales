@@ -1,4 +1,4 @@
-# PIZZA SALES DASHBOARD
+# PIZZA SALES DASHBOARD 🍕🍕🍕
 # 1) PIZZA SALES PROJECT
 * The Pizza Sales Analysis Project aims to analyze and visualize the sales performance of a pizza restaurant using real transactional data. The dataset contains detailed information such as
   order date,time, pizza category, size, price, and quantity sold. By transforming this raw data into meaningful insights, the project helps identify key trends, customer preferences, and business
