@@ -37,7 +37,7 @@ Power BI Dashboard – For interactive storytelling and sharing business insight
 Microsoft PowerPoint / Word – For documenting project findings and visual summaries.
 # 3) Data Sources Pizza Sales might Connected to
 The Pizza Sales dataset (pizza_sales_excel_file.xlsx) was connected to Power BI Desktop through the Excel data connector, cleaned using Power Query, and modeled using DAX for interactive dashboard creation.
-# 4) 🍕Features
+# 4) Features
 1. Interactive Dashboard
 A fully interactive Power BI dashboard designed to explore pizza sales data visually.
 Includes dynamic filters (slicers) for date, pizza category, and size to analyze sales performance from different angles.
