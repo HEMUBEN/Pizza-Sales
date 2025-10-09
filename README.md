@@ -130,6 +130,10 @@ The Pizza Sales Analysis project turned unstructured sales data into actionable 
 7) How can we increase the average order value (38.31)?
 8) What insights can we draw from the total orders (21,350) and total pizzas sold (49,574) metrics?
 9) Why is the average pizzas per order only 2.32 — is there potential to upsell larger combos?
+# 6) Pizza Sales Dashboard
+Show what the table looks like Dashboard Preview
+
+
 
 
 
