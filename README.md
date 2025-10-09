@@ -112,11 +112,11 @@ Seasonal or festive promotions could further boost high-value orders.
 
 3. Recommendations
 Based on insights, the following business strategies are recommended:
-*✅ Focus marketing on top 5 pizzas to maximize sales.
-*✅ Offer discounts or combos on slow-selling pizzas to balance inventory.
-*✅ Increase production during peak hours and weekends to meet customer demand.
-*✅ Introduce limited-time offers on popular pizza categories to maintain excitement and engagement.
-*✅ Continue tracking KPIs like total revenue, average order value, and category performance in Power BI dashboards.
+1.✅ Focus marketing on top 5 pizzas to maximize sales.
+2.✅ Offer discounts or combos on slow-selling pizzas to balance inventory.
+3.✅ Increase production during peak hours and weekends to meet customer demand.
+4.✅ Introduce limited-time offers on popular pizza categories to maintain excitement and engagement.
+5.✅ Continue tracking KPIs like total revenue, average order value, and category performance in Power BI dashboards.
 
 4. Conclusion
 The Pizza Sales Analysis project turned unstructured sales data into actionable insights that helped management understand their business performance clearly. By leveraging Power BI’s analytics and visualization capabilities, the store can make more informed, strategic decisions — ultimately driving higher revenue, reduced waste, and better customer satisfaction.
