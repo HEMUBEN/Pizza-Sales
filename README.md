@@ -120,6 +120,16 @@ Based on insights, the following business strategies are recommended:
 
 4. Conclusion
 The Pizza Sales Analysis project turned unstructured sales data into actionable insights that helped management understand their business performance clearly. By leveraging Power BI’s analytics and visualization capabilities, the store can make more informed, strategic decisions — ultimately driving higher revenue, reduced waste, and better customer satisfaction.
+# Client Questions
+1) Which pizza category contributes the most to total sales — Classic, Supreme, Veggie, or Chicken?
+2) Which pizzas are the top 5 by revenue, and what makes them successful?
+3) Which pizzas are top 5 by quantity and total orders, and do they overlap with the top revenue pizzas?
+4) Do high-selling pizzas have any common ingredients or size patterns that could inform future menu development?
+5) Which pizza size generates the most revenue, and why do customers prefer that size?
+6) What factors are contributing to the total revenue of 817.86K?
+7) How can we increase the average order value (38.31)?
+8) What insights can we draw from the total orders (21,350) and total pizzas sold (49,574) metrics?
+9) Why is the average pizzas per order only 2.32 — is there potential to upsell larger combos?
 
 
 
