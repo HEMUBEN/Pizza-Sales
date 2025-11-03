@@ -6,7 +6,7 @@
 * The main objective of this project is to understand the factors that drive revenue and customer demand. Through data cleaning, modeling, and visualization, the analysis uncovers which pizzas are
   most popular, which sizes generate higher profits, and how sales fluctuate over time. This allows business owners to make data-driven decisions such as adjusting menu prices, promoting
   best-selling items, and optimizing operational efficiency.
-# 2) 🧠 Technologies & Tools Used
+# 2) Technologies & Tools Used
 1. Data Storage & Source
 Microsoft Excel – Used as the primary data source containing pizza sales transactions, order details, and
 pricing information.
@@ -112,11 +112,11 @@ Seasonal or festive promotions could further boost high-value orders.
 
 3. Recommendations
 Based on insights, the following business strategies are recommended:
-✅ Focus marketing on top 5 pizzas to maximize sales.
-✅ Offer discounts or combos on slow-selling pizzas to balance inventory.
-✅ Increase production during peak hours and weekends to meet customer demand.
-✅ Introduce limited-time offers on popular pizza categories to maintain excitement and engagement.
-✅ Continue tracking KPIs like total revenue, average order value, and category performance in Power BI dashboards.
+* Focus marketing on top 5 pizzas to maximize sales.
+* Offer discounts or combos on slow-selling pizzas to balance inventory.
+* Increase production during peak hours and weekends to meet customer demand.
+* Introduce limited-time offers on popular pizza categories to maintain excitement and engagement.
+* Continue tracking KPIs like total revenue, average order value, and category performance in Power BI dashboards.
 
 5. Conclusion
 The Pizza Sales Analysis project turned unstructured sales data into actionable insights that helped management understand their business performance clearly. By leveraging Power BI’s analytics and visualization capabilities, the store can make more informed, strategic decisions — ultimately driving higher revenue, reduced waste, and better customer satisfaction.
