@@ -1,4 +1,4 @@
-# PIZZA SALES DASHBOARD 🍕🍕🍕
+# PIZZA SALES DASHBOARD
 # 1) PIZZA SALES PROJECT
 * The Pizza Sales Analysis Project aims to analyze and visualize the sales performance of a pizza restaurant using real transactional data. The dataset contains detailed information such as
   order date,time, pizza category, size, price, and quantity sold. By transforming this raw data into meaningful insights, the project helps identify key trends, customer preferences, and business
@@ -71,42 +71,42 @@ Reduces manual effort and ensures accuracy in real-time reporting.
 The Pizza Sales Analysis Project provided a data-driven approach to improve decision-making and operational efficiency for the pizza store. By transforming raw sales data into meaningful insights, management can make smarter choices about menu optimization, pricing, and marketing.
 Key business impacts include:
 
-*📈 Revenue Growth:
+* Revenue Growth:
 Identifying the top-performing pizzas and sizes helps focus marketing and promotions on high-profit products, directly increasing sales.
 
-*🧠 Customer Understanding:
+* Customer Understanding:
 Analysis of pizza categories, ingredients, and time-based trends reveals customer preferences, enabling targeted offers and improved satisfaction.
 
-*⏰ Operational Efficiency:
+* Operational Efficiency:
 Time-based analysis (peak hours and days) allows better workforce scheduling, inventory planning, and delivery management.
 
-*💰 Cost Optimization:
+* Cost Optimization:
 Knowing which pizzas sell less helps reduce waste from slow-moving inventory and ingredients.
 
-*📊 Data-Driven Strategy:
+* Data-Driven Strategy:
 The Power BI dashboard gives leadership real-time visibility into performance metrics, helping make quick, evidence-based business decisions.
 
 2. Key Insights Derived from Analysis
 After analyzing the sales data, the following actionable insights were discovered:
 
-*🥇 Top Performing Pizzas
+* Top Performing Pizzas
 Italian Supreme, Five Cheese, and Classic Deluxe pizzas generated the highest total revenue.
 These items can be promoted further or used as flagship products in marketing campaigns.
 
-*🍕 Category-Wise Insights
+* Category-Wise Insights
 The Classic and Supreme categories contributed the largest share of total revenue.
 Veggie pizzas performed steadily, indicating demand among health-conscious customers.
 
-*📏 Size-Wise Performance
+* Size-Wise Performance
 Large (L) and Medium (M) pizzas sold the most, showing customers prefer value-for-money sizes.
 Extra Large (XL) pizzas had fewer orders but higher revenue per unit, suggesting potential for premium pricing strategies.
 
-*📅 Time & Date Trends
+* Time & Date Trends
 Peak order times were during lunch hours (12 PM–2 PM) and evening (6 PM–9 PM).
 Friday to Sunday showed the highest order volumes, reflecting weekend demand surges.
 This pattern helps optimize staffing and promotional campaigns during high-demand periods.
 
-*💵 Revenue Insights
+* Revenue Insights
 Average Order Value (AOV) increased when customers purchased combo or larger-sized pizzas.
 Seasonal or festive promotions could further boost high-value orders.
 
@@ -133,9 +133,9 @@ The Pizza Sales Analysis project turned unstructured sales data into actionable 
 # 6) Pizza Sales Dashboard
 Show what the table looks like Dashboard Preview
 
-===>https://github.com/HEMUBEN/Pizza-Sales/blob/main/Pizza%20Sales%20Dashboard.png
+Dashboard: https://github.com/HEMUBEN/Pizza-Sales/blob/main/Pizza%20Sales%20Dashboard.png
 
-===>https://github.com/HEMUBEN/Pizza-Sales/blob/main/Pizza%20Sales%20Dashboard%20Best-Worst%20Sellers.png
+Dashboard: https://github.com/HEMUBEN/Pizza-Sales/blob/main/Pizza%20Sales%20Dashboard%20Best-Worst%20Sellers.png
 
 
 
