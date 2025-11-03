@@ -26,13 +26,19 @@ Total Pizzas Sold = SUM(pizza_sales[quantity])
 Microsoft Excel (Pivot Tables & Charts) – For creating quick summary reports and trend visualizations.
 4. Visualization Tools Used
 Visualization Type	Purpose
-Bar Chart==> To show top 10 pizzas by revenue and quantity sold
-Pie / Donut Chart==> To show sales contribution by category
-Line Chart==> To visualize sales trends over time
-KPI Cards==> To display key performance indicators like revenue, orders, and AOV
-Stacked Column Chart==> To compare pizza sizes and categories
-Heat Map==> To show sales by time of day and day of week
-5. Reporting & Presentation
+Bar Chart
+* To show top 10 pizzas by revenue and quantity sold
+Pie / Donut Chart
+* To show sales contribution by category
+Line Chart
+* To visualize sales trends over time
+KPI Cards
+* To display key performance indicators like revenue, orders, and AOV
+Stacked Column Chart
+* To compare pizza sizes and categories
+Heat Map
+* To show sales by time of day and day of week
+6. Reporting & Presentation
 Power BI Dashboard – For interactive storytelling and sharing business insights with stakeholders.
 Microsoft PowerPoint / Word – For documenting project findings and visual summaries.
 # 3) Data Sources Pizza Sales might Connected to
